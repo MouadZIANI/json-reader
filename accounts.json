@@ -1,0 +1,16 @@
+[
+	{
+		"username": "Mouad ZIANI",
+		"password": "secret mouad",
+		"api": "Mouad API",
+		"service": "Software Engineer",
+		"mail": "mouad@mail.com"
+	},
+	{
+		"username": "Abdellah AF",
+		"password": "secret abdellah",
+		"api": "Abdellah API",
+		"service": "Developer",
+		"mail": "abdellah@mail.com"
+	}
+]
